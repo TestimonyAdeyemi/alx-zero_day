@@ -1,1 +1,1 @@
-This is about git commands
+This directory is about git commands
