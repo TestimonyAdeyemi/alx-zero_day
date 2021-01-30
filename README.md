@@ -1,2 +1,2 @@
-# alx-zero_day
-# alx-zero_day
+I am now an ALX student and this is my first repository as a software engineer
+
